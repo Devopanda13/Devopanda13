@@ -1,6 +1,7 @@
 
-
-<img src = "https://media.giphy.com/media/Fl5KUZdss6tPP1XGHo/giphy.gif">
+<p align="center">
+  <img src = "https://media.giphy.com/media/Fl5KUZdss6tPP1XGHo/giphy.gif" width="800" height="300">
+</p>
 
 
 Here are some ideas to get you started:
