@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src = "https://imgflip.com/gif/4mix4r">
+<img src = "https://i.makeagif.com/media/11-16-2020/7c81H5.gif">
 
 
 Here are some ideas to get you started:
