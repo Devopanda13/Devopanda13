@@ -1,6 +1,6 @@
 
 
-<img src = "https://i.makeagif.com/media/11-16-2020/7c81H5.gif" width="800" height="300" style="float:middle">
+<img src = "https://media.giphy.com/media/Fl5KUZdss6tPP1XGHo/giphy.gif">
 
 
 Here are some ideas to get you started:
